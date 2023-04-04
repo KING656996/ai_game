@@ -1,0 +1,25 @@
+
+
+body{
+    background: url("XpnjN2.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    margin-left: 560px;
+    background-color: darkcyan;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: darkred;
+}
+h1{
+    color: red;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
